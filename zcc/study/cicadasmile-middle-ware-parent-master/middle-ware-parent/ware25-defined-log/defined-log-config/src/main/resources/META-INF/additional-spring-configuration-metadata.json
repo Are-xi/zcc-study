@@ -1,0 +1,9 @@
+{
+  "properties": [
+    {
+      "name": "spring.application.app-id",
+      "type": "java.lang.String",
+      "description": "描述应用ID"
+    }
+  ]
+}

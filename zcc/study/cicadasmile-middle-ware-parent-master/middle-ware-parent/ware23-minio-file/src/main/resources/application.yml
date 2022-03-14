@@ -1,0 +1,14 @@
+server:
+  tomcat:
+    uri-encoding: UTF-8
+  port: 7023
+spring:
+  profiles:
+    active: dev
+  application:
+    name: ware23-minio-file
+  http:
+    encoding:
+      charset: UTF-8
+      force: true
+      enabled: true

@@ -1,0 +1,16 @@
+spring:
+  # freemarker配置
+  freemarker:
+    # 关闭模板缓存
+    cache: false
+    settings:
+      # 检查模板更新延迟时间，设置为0表示立即检查
+      template_update_delay: 0
+    template-loader-path: classpath:/templates
+    charset: UTF-8
+    check-template-location: true
+    suffix: .ftl
+    content-type: text/html
+    expose-request-attributes: true
+    expose-session-attributes: true
+    request-context-attribute: request

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ware26-oauth2-parent/auth-server/auth-server.iml" filepath="$PROJECT_DIR$/ware26-oauth2-parent/auth-server/auth-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ware07-dubbo-parent/block-dubbo-common/block-dubbo-common.iml" filepath="$PROJECT_DIR$/ware07-dubbo-parent/block-dubbo-common/block-dubbo-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ware07-dubbo-parent/block-dubbo-consume/block-dubbo-consume.iml" filepath="$PROJECT_DIR$/ware07-dubbo-parent/block-dubbo-consume/block-dubbo-consume.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ware07-dubbo-parent/block-dubbo-provider/block-dubbo-provider.iml" filepath="$PROJECT_DIR$/ware07-dubbo-parent/block-dubbo-provider/block-dubbo-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ware25-defined-log/defined-log-api/defined-log-api.iml" filepath="$PROJECT_DIR$/ware25-defined-log/defined-log-api/defined-log-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ware25-defined-log/defined-log-config/defined-log-config.iml" filepath="$PROJECT_DIR$/ware25-defined-log/defined-log-config/defined-log-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ware18-file-parent/file01-excel-manage/file01-excel-manage.iml" filepath="$PROJECT_DIR$/ware18-file-parent/file01-excel-manage/file01-excel-manage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ware18-file-parent/file02-pdf-manage/file02-pdf-manage.iml" filepath="$PROJECT_DIR$/ware18-file-parent/file02-pdf-manage/file02-pdf-manage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ware18-file-parent/file03-xml-manage/file03-xml-manage.iml" filepath="$PROJECT_DIR$/ware18-file-parent/file03-xml-manage/file03-xml-manage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ware18-file-parent/file04-csv-manage/file04-csv-manage.iml" filepath="$PROJECT_DIR$/ware18-file-parent/file04-csv-manage/file04-csv-manage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ware19-kafka-parent/kafka-consumer-server/kafka-consumer-server.iml" filepath="$PROJECT_DIR$/ware19-kafka-parent/kafka-consumer-server/kafka-consumer-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ware19-kafka-parent/kafka-producer-server/kafka-producer-server.iml" filepath="$PROJECT_DIR$/ware19-kafka-parent/kafka-producer-server/kafka-producer-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/middle-ware-parent.iml" filepath="$PROJECT_DIR$/middle-ware-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ware26-oauth2-parent/resource-server/resource-server.iml" filepath="$PROJECT_DIR$/ware26-oauth2-parent/resource-server/resource-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ware26-oauth2-parent/third-server/third-server.iml" filepath="$PROJECT_DIR$/ware26-oauth2-parent/third-server/third-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ware01-shard-jdbc/ware01-shard-jdbc.iml" filepath="$PROJECT_DIR$/ware01-shard-jdbc/ware01-shard-jdbc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ware02-email-send/ware02-email-send.iml" filepath="$PROJECT_DIR$/ware02-email-send/ware02-email-send.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ware03-rocket-queue/ware03-rocket-queue.iml" filepath="$PROJECT_DIR$/ware03-rocket-queue/ware03-rocket-queue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ware04-swagger-two/ware04-swagger-two.iml" filepath="$PROJECT_DIR$/ware04-swagger-two/ware04-swagger-two.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ware05-quart-job/ware05-quart-job.iml" filepath="$PROJECT_DIR$/ware05-quart-job/ware05-quart-job.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ware06-redis-cluster/ware06-redis-cluster.iml" filepath="$PROJECT_DIR$/ware06-redis-cluster/ware06-redis-cluster.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ware07-dubbo-parent/ware07-dubbo-parent.iml" filepath="$PROJECT_DIR$/ware07-dubbo-parent/ware07-dubbo-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ware08-elastic-search/ware08-elastic-search.iml" filepath="$PROJECT_DIR$/ware08-elastic-search/ware08-elastic-search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ware09-jwt-token/ware09-jwt-token.iml" filepath="$PROJECT_DIR$/ware09-jwt-token/ware09-jwt-token.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ware10-fast-dfs/ware10-fast-dfs.iml" filepath="$PROJECT_DIR$/ware10-fast-dfs/ware10-fast-dfs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ware11-shiro-auth/ware11-shiro-auth.iml" filepath="$PROJECT_DIR$/ware11-shiro-auth/ware11-shiro-auth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ware12-security-auth/ware12-security-auth.iml" filepath="$PROJECT_DIR$/ware12-security-auth/ware12-security-auth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ware13-click-house/ware13-click-house.iml" filepath="$PROJECT_DIR$/ware13-click-house/ware13-click-house.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ware14-drool-rule/ware14-drool-rule.iml" filepath="$PROJECT_DIR$/ware14-drool-rule/ware14-drool-rule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ware15-plus-batis/ware15-plus-batis.iml" filepath="$PROJECT_DIR$/ware15-plus-batis/ware15-plus-batis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ware15-source-data/ware15-source-data.iml" filepath="$PROJECT_DIR$/ware15-source-data/ware15-source-data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ware16-zoo-keeper/ware16-zoo-keeper.iml" filepath="$PROJECT_DIR$/ware16-zoo-keeper/ware16-zoo-keeper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ware17-regist-nacos/ware17-regist-nacos.iml" filepath="$PROJECT_DIR$/ware17-regist-nacos/ware17-regist-nacos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ware18-file-parent/ware18-file-parent.iml" filepath="$PROJECT_DIR$/ware18-file-parent/ware18-file-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ware19-kafka-parent/ware19-kafka-parent.iml" filepath="$PROJECT_DIR$/ware19-kafka-parent/ware19-kafka-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ware20-elastic-job/ware20-elastic-job.iml" filepath="$PROJECT_DIR$/ware20-elastic-job/ware20-elastic-job.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ware21-jta-source/ware21-jta-source.iml" filepath="$PROJECT_DIR$/ware21-jta-source/ware21-jta-source.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ware22-page-static/ware22-page-static.iml" filepath="$PROJECT_DIR$/ware22-page-static/ware22-page-static.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ware23-minio-file/ware23-minio-file.iml" filepath="$PROJECT_DIR$/ware23-minio-file/ware23-minio-file.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ware24-eht-cache/ware24-eht-cache.iml" filepath="$PROJECT_DIR$/ware24-eht-cache/ware24-eht-cache.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ware25-defined-log/ware25-defined-log.iml" filepath="$PROJECT_DIR$/ware25-defined-log/ware25-defined-log.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ware26-oauth2-parent/ware26-oauth2-parent.iml" filepath="$PROJECT_DIR$/ware26-oauth2-parent/ware26-oauth2-parent.iml" />
+    </modules>
+  </component>
+</project>

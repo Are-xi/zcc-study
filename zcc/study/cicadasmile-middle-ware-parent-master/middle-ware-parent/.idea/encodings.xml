@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/ware01-shard-jdbc/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ware01-shard-jdbc/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ware02-email-send/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ware02-email-send/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ware03-rocket-queue/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ware03-rocket-queue/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ware04-swagger-two/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ware04-swagger-two/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ware05-quart-job/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ware05-quart-job/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ware06-redis-cluster/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ware06-redis-cluster/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ware08-elastic-search/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ware08-elastic-search/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ware20-elastic-job/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ware20-elastic-job/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

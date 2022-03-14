@@ -1,0 +1,11 @@
+spring:
+  cache:
+    ehcache:
+      config: classpath:ehcache.xml
+  datasource:
+    type: com.alibaba.druid.pool.DruidDataSource
+    druid:
+      url: jdbc:mysql://127.0.0.1:3306/eh-cache?useUnicode=true&characterEncoding=UTF8&zeroDateTimeBehavior=convertToNull&useSSL=false
+      driverClassName: com.mysql.jdbc.Driver
+      username: root
+      password: 123456
